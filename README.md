@@ -1,24 +1,38 @@
-# patricia-card
+# Project-Overview
 
-## Project setup
+The application (patricia-card) is a credit card implemented in VUEjs.
+
+## Features
+
+The card has 2 states that can be triggered by clicking the eye button in the top right corner of the card.
+
+## To Run The Application locally
+
+STEP:1 First clone the project using the command:
+
+```
+git clone https://github.com/Georgedev2/credit-card.git
+```
+
+STEP:2 Install the dependencies using the below command:
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+STEP:4 If every thing went well and all the dependencies are install, then run:
+
 ```
-yarn serve
+npm server or yarn server
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+To run this application, open CMD inside the folder containing this vue application then run the command
 
-### Lints and fixes files
-```
-yarn lint
-```
+Depending on the project package manager, the above command, will run the development server inside the project and made the application available at http:// localhost: 8080/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To view the application, open any browser of your, choice on your computer, then navigate to http:// localhost: 8080
+
+To stop the development server running, run the command `CTRL+C`
+
+
+
