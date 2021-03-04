@@ -28,9 +28,9 @@ npm server or yarn server
 
 To run this application, open CMD inside the folder containing this vue application then run the command
 
-Depending on the project package manager, the above command, will run the development server inside the project and made the application available at http:// localhost: 8080/
+Depending on the project package manager, the above command, will run the development server inside the project and made the application available at `http:// localhost: 8080/`
 
-To view the application, open any browser of your, choice on your computer, then navigate to http:// localhost: 8080
+To view the application, open any browser of your, choice on your computer, then navigate to `http:// localhost: 8080`
 
 To stop the development server running, run the command `CTRL+C`
 
