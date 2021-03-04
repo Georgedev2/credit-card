@@ -79,15 +79,15 @@ export default {
       isBlind: true,
       cardNumbers: [
         {
-          cardNumber: '4353',
+          cardNumber: '4093',
           isdisplayed: false,
         },
         {
-          cardNumber: '4353',
+          cardNumber: '4983',
           isdisplayed: false,
         },
         {
-          cardNumber: '4353',
+          cardNumber: '4053',
           isdisplayed: false,
         },
         {
